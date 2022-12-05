@@ -1,2 +1,2 @@
 # Tindog
-An Website similar to tinder learned from Angela Yu Done by RijansBhagat
+An Website similar to tinder learned from Angela Yu Done by RijansBhagat (ME).
